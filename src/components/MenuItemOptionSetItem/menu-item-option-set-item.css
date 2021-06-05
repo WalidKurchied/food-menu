@@ -1,0 +1,13 @@
+.menu-item-option-set-item {
+    list-style: none;
+    margin: 10px 0;
+    display: flex;
+    justify-content: space-between;
+}
+
+.option-set-item-name,
+.option-set-item-price {
+}
+
+.option-set-item-price {
+}
