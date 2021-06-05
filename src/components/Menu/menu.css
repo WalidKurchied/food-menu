@@ -1,0 +1,8 @@
+.menu-container .menu-heading {
+    text-align: center;
+    margin: 0;
+    padding: 20px;
+    text-transform: uppercase;
+    background-color:var(--primaryBackground);
+    color: var(--white);
+}

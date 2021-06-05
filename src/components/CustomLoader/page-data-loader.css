@@ -1,0 +1,10 @@
+.page-data-loader-container {
+    height: 100vh;
+}
+
+.page-data-loader-container .page-data-loader {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: inherit;
+}
